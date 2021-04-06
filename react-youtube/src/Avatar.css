@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Gamja+Flower&display=swap');
+
+
+.mainpage { width: 90%; height: 100vh; margin: auto; font-family: 'Gamja Flower', cursive;}
+
+.avatar_design img{
+   width: 200px;
+   height: 200px;
+}
